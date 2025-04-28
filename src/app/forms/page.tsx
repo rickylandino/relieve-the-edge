@@ -53,7 +53,7 @@ function classNames(...classes: string[]) {
 
 export default function Example() {
     return (
-        <div className="bg-white py-24 md:py-32">
+        <div className="bg-white py-16">
             <div className="mx-auto grid max-w-7xl">
             <p className="mt-2 text-pretty text-4xl font-semibold font-mont tracking-tight text-[#186EA5] sm:text-5xl lg:text-balance text-center mb-10">
             Forms

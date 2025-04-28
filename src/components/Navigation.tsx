@@ -25,7 +25,7 @@ export function Navigation() {
             <span className="sr-only">Relieve The Edge</span>
             <img
               alt=""
-              src="logo1.jpg"
+              src="logo.png"
               className="h-20 w-auto"
             />
           </a>

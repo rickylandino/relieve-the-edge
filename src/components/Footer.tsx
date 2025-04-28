@@ -16,8 +16,8 @@ export default function Footer() {
                 <div className="mt-16 flex justify-center gap-x-10">
                 <img
                     alt=""
-                    src="logo1.jpg"
-                    className="h-48 w-auto"
+                    src="logo.png"
+                    className="h-56 w-auto"
                     />
                 </div>
                 <p className="mt-10 text-center text-sm/6 text-gray-600">&copy; All rights reserved.</p>

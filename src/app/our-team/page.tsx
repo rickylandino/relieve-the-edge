@@ -10,7 +10,7 @@ const people = [
   
   export default function Example() {
     return (
-      <div className="bg-white py-24 md:py-32">
+      <div className="bg-white py-16">
         <div className="mx-auto grid max-w-7xl grid-cols-1 gap-20 px-6 lg:px-8 xl:grid-cols-5">
           <div className="max-w-2xl xl:col-span-2">
             <h2 className="text-pretty text-4xl font-semibold tracking-tight text-[#186EA5] sm:text-5xl font-mont">

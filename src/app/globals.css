@@ -25,3 +25,11 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+ul, ol ul {
+    list-style: disc;
+}
+
+ol {
+    list-style: decimal;
+}
