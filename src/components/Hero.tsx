@@ -31,7 +31,7 @@ export default function Hero() {
                   Relieve The Edge
                 </h1>
                 <p className="mt-8 text-pretty text-lg font-medium text-gray-500 sm:text-xl/8">
-                  [Some Brief Text About Relieve The Edge]
+                  [Some Brief Text About Relieve The Edge] 
                 </p>
                 <div className="mt-10 flex items-center gap-x-6">
                   <a
